@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B26AD-1131-415B-A1EA-12DB8B79E5A2}|Sample.csproj|d:\\store\\razor projects\\sample\\pages\\ani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F0B26AD-1131-415B-A1EA-12DB8B79E5A2}|Sample.csproj|solutionrelative:pages\\ani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B26AD-1131-415B-A1EA-12DB8B79E5A2}|Sample.csproj|d:\\store\\razor projects\\sample\\pages\\aneeshe.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0B26AD-1131-415B-A1EA-12DB8B79E5A2}|Sample.csproj|solutionrelative:pages\\aneeshe.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B26AD-1131-415B-A1EA-12DB8B79E5A2}|Sample.csproj|d:\\store\\razor projects\\sample\\pages\\aneeshe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F0B26AD-1131-415B-A1EA-12DB8B79E5A2}|Sample.csproj|solutionrelative:pages\\aneeshe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aneeshe.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\Sample\\Pages\\Aneeshe.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Aneeshe.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\Sample\\Pages\\Aneeshe.cshtml.cs",
+              "RelativeToolTip": "Pages\\Aneeshe.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:08:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aneeshe.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\Sample\\Pages\\Aneeshe.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Aneeshe.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\Sample\\Pages\\Aneeshe.cshtml",
+              "RelativeToolTip": "Pages\\Aneeshe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T04:04:25.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ani.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\Sample\\Pages\\Ani.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Ani.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\Sample\\Pages\\Ani.cshtml",
+              "RelativeToolTip": "Pages\\Ani.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T04:03:42.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

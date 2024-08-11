@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorExercise.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorExercise.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\css\\home.css",
+      "PackagePath": "staticwebassets\\PublicAssets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\css\\landingStyle.css",
+      "PackagePath": "staticwebassets\\PublicAssets\\css\\landingStyle.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\css\\loginStyle.css",
+      "PackagePath": "staticwebassets\\PublicAssets\\css\\loginStyle.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\AirBnb.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\AirBnb.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Decoration.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Decoration.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Frame 1368.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Frame 1368.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Google symbol.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Google symbol.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Group 33864.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Group 33864.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Group 33933.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Group 33933.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Group 33934.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Group 33934.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Icon.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Icon.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Image (1).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Image (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Image (2).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Image (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Image.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Image.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Login with google shape.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Login with google shape.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Logo (1).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Logo (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Logo (2).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Logo (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Logo (3).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Logo (3).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Logo (4).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Logo (4).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Logo (5).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Logo (5).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Logo (6).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Logo (6).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Logo (7).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Logo (7).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Logo.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Logo.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Mask Group (1).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Mask Group (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Mask Group (2).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Mask Group (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Mask Group.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Mask Group.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Picture.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Picture.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Picture1.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Picture1.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Rectangle.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Rectangle.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Register Img.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Register Img.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Slack.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Slack.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Union (1).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Union (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Union.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Union.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Userpic (2).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Userpic (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\Userpic.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\Userpic.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\arrow.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\arrow.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\blue-briefcase.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\blue-briefcase.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\blue-building.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\blue-building.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\blue-right.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\blue-right.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\briefcase.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\briefcase.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\business-finance-employment-femal.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\business-finance-employment-femal.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\check-circle.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\check-circle.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\clock.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\clock.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\hands.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\hands.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\home (2).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\home (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\location-marker.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\location-marker.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\main-img.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\main-img.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\microsoftLogo.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\microsoftLogo.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\pen.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\pen.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\pencil-alt.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\pencil-alt.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\rectmessage.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\rectmessage.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\home\\users.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\home\\users.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Aitrich_logo.jpg",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Aitrich_logo.jpg"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Company Logo (2).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Company Logo (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Company Logo (3).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Company Logo (3).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Company Logo (4).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Company Logo (4).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Company Logo (5).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Company Logo (5).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Company Logo (6).png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Company Logo (6).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Company Logo.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Company Logo.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Decoration.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Decoration.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Google symbol.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Google symbol.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Google.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Google.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Group 1126.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Group 1126.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Group 239625.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Group 239625.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Group 5689.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Group 5689.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Headline.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Headline.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Login with google shape.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Login with google shape.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\LoginPageImg.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\LoginPageImg.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Logo.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Plus.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Plus.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\Register Img.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Register Img.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\add-group.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\add-group.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\facebook.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\gray-user.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\gray-user.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\instagram.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\linkedin.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\loginBackground.PNG",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\loginBackground.PNG"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\main-img.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\main-img.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\twitter.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\PublicAssets\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\youtube.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\BlazorExercise\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorExercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorExercise.props",
+      "PackagePath": "build\\BlazorExercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorExercise.props",
+      "PackagePath": "buildMultiTargeting\\BlazorExercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorExercise.props",
+      "PackagePath": "buildTransitive\\BlazorExercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\Largest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\Largest.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\Largest.AssemblyInfo.cs
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\Largest.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\Largest.sourcelink.json
+C:\Users\jamal\source\repos\Largest\bin\Debug\net8.0\Largest.exe
+C:\Users\jamal\source\repos\Largest\bin\Debug\net8.0\Largest.deps.json
+C:\Users\jamal\source\repos\Largest\bin\Debug\net8.0\Largest.runtimeconfig.json
+C:\Users\jamal\source\repos\Largest\bin\Debug\net8.0\Largest.dll
+C:\Users\jamal\source\repos\Largest\bin\Debug\net8.0\Largest.pdb
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\Largest.dll
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\refint\Largest.dll
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\Largest.pdb
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\Largest.genruntimeconfig.cache
+C:\Users\jamal\source\repos\Largest\obj\Debug\net8.0\ref\Largest.dll

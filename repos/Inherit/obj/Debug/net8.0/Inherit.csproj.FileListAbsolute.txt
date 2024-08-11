@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\Inherit\bin\Debug\net8.0\Inherit.exe
+C:\Users\jamal\source\repos\Inherit\bin\Debug\net8.0\Inherit.deps.json
+C:\Users\jamal\source\repos\Inherit\bin\Debug\net8.0\Inherit.runtimeconfig.json
+C:\Users\jamal\source\repos\Inherit\bin\Debug\net8.0\Inherit.dll
+C:\Users\jamal\source\repos\Inherit\bin\Debug\net8.0\Inherit.pdb
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\Inherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\Inherit.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\Inherit.AssemblyInfo.cs
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\Inherit.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\Inherit.sourcelink.json
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\Inherit.dll
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\refint\Inherit.dll
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\Inherit.pdb
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\Inherit.genruntimeconfig.cache
+C:\Users\jamal\source\repos\Inherit\obj\Debug\net8.0\ref\Inherit.dll

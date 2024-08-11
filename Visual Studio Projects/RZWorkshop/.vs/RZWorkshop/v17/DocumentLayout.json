@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\RZWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|d:\\store\\razor projects\\rzworkshop\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\pages\\jobpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:pages\\jobpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\models\\jobss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:models\\jobss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\pages\\jobpost.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:pages\\jobpost.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\interface\\ijobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:interface\\ijobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\models\\userss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:models\\userss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\models\\companiess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:models\\companiess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\models\\rzworkshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:models\\rzworkshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\rzworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:rzworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\models\\skillss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:models\\skillss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\models\\qualificationss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:models\\qualificationss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\models\\interviewss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:models\\interviewss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|D:\\Store\\Razor Projects\\RZWorkshop\\models\\applicationss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC940F-25D0-4166-B4B5-E7BC340A45D5}|RZWorkshop.csproj|solutionrelative:models\\applicationss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:10:04.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPost.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\JobPost.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobPost.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\JobPost.cshtml",
+              "RelativeToolTip": "Pages\\JobPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T05:41:56.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPost.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\JobPost.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobPost.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\JobPost.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobPost.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:09:05.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jobss.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Jobss.cs",
+              "RelativeDocumentMoniker": "Models\\Jobss.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Jobss.cs",
+              "RelativeToolTip": "Models\\Jobss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:31:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\DTO\\JobDto.cs",
+              "RelativeDocumentMoniker": "DTO\\JobDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\DTO\\JobDto.cs",
+              "RelativeToolTip": "DTO\\JobDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:47:51.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Mapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Mapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Mapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:57:08.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobRepo.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Repository\\JobRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepo.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Repository\\JobRepo.cs",
+              "RelativeToolTip": "Repository\\JobRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:18:51.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "Service\\JobService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Service\\JobService.cs",
+              "RelativeToolTip": "Service\\JobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:09:59.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:56:49.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Interface\\IJobService.cs",
+              "RelativeToolTip": "Interface\\IJobService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:47:17.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJobRepo.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Interface\\IJobRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobRepo.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Interface\\IJobRepo.cs",
+              "RelativeToolTip": "Interface\\IJobRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:46:57.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Userss.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Userss.cs",
+              "RelativeDocumentMoniker": "Models\\Userss.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Userss.cs",
+              "RelativeToolTip": "Models\\Userss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:30:00.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Companiess.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Companiess.cs",
+              "RelativeDocumentMoniker": "Models\\Companiess.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Companiess.cs",
+              "RelativeToolTip": "Models\\Companiess.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:31:31.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RzworkshopContext.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\RzworkshopContext.cs",
+              "RelativeDocumentMoniker": "Models\\RzworkshopContext.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\RzworkshopContext.cs",
+              "RelativeToolTip": "Models\\RzworkshopContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:28:14.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RZWorkshop.csproj",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\RZWorkshop.csproj",
+              "RelativeDocumentMoniker": "RZWorkshop.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\RZWorkshop.csproj",
+              "RelativeToolTip": "RZWorkshop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T05:47:26.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T09:54:25.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:03:50.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T06:18:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Skillss.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Skillss.cs",
+              "RelativeDocumentMoniker": "Models\\Skillss.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Skillss.cs",
+              "RelativeToolTip": "Models\\Skillss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:29:40.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T06:26:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T05:02:01.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Qualificationss.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Qualificationss.cs",
+              "RelativeDocumentMoniker": "Models\\Qualificationss.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Qualificationss.cs",
+              "RelativeToolTip": "Models\\Qualificationss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:33:47.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Interviewss.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Interviewss.cs",
+              "RelativeDocumentMoniker": "Models\\Interviewss.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Interviewss.cs",
+              "RelativeToolTip": "Models\\Interviewss.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA/wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:33:35.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Applicationss.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Applicationss.cs",
+              "RelativeDocumentMoniker": "Models\\Applicationss.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZWorkshop\\Models\\Applicationss.cs",
+              "RelativeToolTip": "Models\\Applicationss.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:31:36.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

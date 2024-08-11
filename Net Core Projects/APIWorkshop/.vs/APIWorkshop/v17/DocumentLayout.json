@@ -1,0 +1,1261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\APIWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:api\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\dto\\jobseekerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\dto\\postedskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\login\\loginrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\login\\loginrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\login\\interfaces\\iloginrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\login\\interfaces\\iloginrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\login\\dtos\\jobseekerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\login\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\authuser\\dtos\\authuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\authuser\\interfaces\\iauthuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\authuser\\interfaces\\iauthuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\authuser\\authuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\authuser\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\enums\\messagestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\enums\\jobinterviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\helpers\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\helpers\\companymemberlistparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\helpers\\joblistparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\helpers\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\helpers\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\helpers\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\helpers\\paginationheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\domaindal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\interface\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\interface\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\apiworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:apiworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\api\\admin\\requestobjects\\skillrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:api\\admin\\requestobjects\\skillrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\api\\admin\\requestobjects\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:api\\admin\\requestobjects\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\api\\admin\\requestobjects\\industryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:api\\admin\\requestobjects\\industryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\api\\admin\\requestobjects\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:api\\admin\\requestobjects\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\api\\admin\\requestobjects\\adminloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:api\\admin\\requestobjects\\adminloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\dal\\apiworkshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\workexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\messagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\jobseekerprofileskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\jobresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\jobprovidercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\model\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064807_fghj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240724064807_fghj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\apiworkshop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:apiworkshop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064506_fghj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240724064506_fghj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064148_fghj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240724064148_fghj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724053632_fghj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240724053632_fghj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724051937_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240724051937_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|D:\\Store\\Razor Projects\\APIWorkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|d:\\store\\razor projects\\apiworkshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77366B78-2003-4A7C-B994-7019C1B663A2}|APIWorkshop.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\dto\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\dto\\jobproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B78A82-E6CC-4680-B2A9-B53612977EEE}|..\\DomainDAL\\DomainDAL.csproj|d:\\store\\razor projects\\domaindal\\services\\admin\\dto\\joblistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequestRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\LoginRequestRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Login\\LoginRequestRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\LoginRequestRepository.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Login\\LoginRequestRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:06:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequestService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\LoginRequestService.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Login\\LoginRequestService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\LoginRequestService.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Login\\LoginRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:07:03.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\AdminController.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\AdminController.cs",
+              "RelativeToolTip": "API\\Admin\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:31:55.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostedSkillDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\PostedSkillDto.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\Dto\\PostedSkillDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\PostedSkillDto.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\Dto\\PostedSkillDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:07:00.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobSeekerDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\JobSeekerDto.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\Dto\\JobSeekerDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\JobSeekerDto.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\Dto\\JobSeekerDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:06:30.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoginRequestRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\Interfaces\\ILoginRequestRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Login\\Interfaces\\ILoginRequestRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\Interfaces\\ILoginRequestRepository.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Login\\Interfaces\\ILoginRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:05:45.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoginRequestService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\Interfaces\\ILoginRequestService.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Login\\Interfaces\\ILoginRequestService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\Interfaces\\ILoginRequestService.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Login\\Interfaces\\ILoginRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:06:16.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobSeekerLoginDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Login\\DTOs\\JobSeekerLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:05:31.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLoginDTO.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\DTOs\\AdminLoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Login\\DTOs\\AdminLoginDTO.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Login\\DTOs\\AdminLoginDTO.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Login\\DTOs\\AdminLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:04:54.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthUserDTO.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\DTOs\\AuthUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Authuser\\DTOs\\AuthUserDTO.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\DTOs\\AuthUserDTO.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Authuser\\DTOs\\AuthUserDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:13:10.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthUserRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Authuser\\Interfaces\\IAuthUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:15:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthUserService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\Interfaces\\IAuthUserService.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Authuser\\Interfaces\\IAuthUserService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\Interfaces\\IAuthUserService.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Authuser\\Interfaces\\IAuthUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:15:20.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthUserRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\AuthUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Authuser\\AuthUserRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\AuthUserRepository.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Authuser\\AuthUserRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:15:36.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthUserService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\AuthUserService.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Authuser\\AuthUserService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Authuser\\AuthUserService.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Authuser\\AuthUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:16:44.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageStatus.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Enums\\MessageStatus.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Enums\\MessageStatus.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Enums\\MessageStatus.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Enums\\MessageStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:36:15.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Enums\\Roles.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Enums\\Roles.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:36:46.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Enums\\Status.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Enums\\Status.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Enums\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:37:03.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobInterviewStatus.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Enums\\JobInterviewStatus.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Enums\\JobInterviewStatus.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Enums\\JobInterviewStatus.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Enums\\JobInterviewStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:36:08.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\MailRequest.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Helpers\\MailRequest.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\MailRequest.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Helpers\\MailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:59:33.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobListParams.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\JobListParams.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Helpers\\JobListParams.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\JobListParams.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Helpers\\JobListParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:58:22.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CompanyMemberListParam.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\CompanyMemberListParam.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Helpers\\CompanyMemberListParam.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\CompanyMemberListParam.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Helpers\\CompanyMemberListParam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:57:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Helpers\\PaginationParams.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\PaginationParams.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Helpers\\PaginationParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:58:36.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\MailSettings.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Helpers\\MailSettings.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\MailSettings.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Helpers\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:59:19.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\PagedList.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Helpers\\PagedList.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\PagedList.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Helpers\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:58:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaginationHeader.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\PaginationHeader.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Helpers\\PaginationHeader.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Helpers\\PaginationHeader.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Helpers\\PaginationHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:58:42.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\AdminRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\AdminRepository.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\AdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:10:55.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Interface\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\Interface\\IAdminRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Interface\\IAdminRepository.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\Interface\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:10:18.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Interface\\IAdminService.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\Interface\\IAdminService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Interface\\IAdminService.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\Interface\\IAdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:10:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DomainDAL.csproj",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\DomainDAL.csproj",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\DomainDAL.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\DomainDAL.csproj",
+              "RelativeToolTip": "..\\DomainDAL\\DomainDAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T12:46:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\AdminService.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\AdminService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\AdminService.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:11:13.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseApiController.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:38:41.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SkillRequest.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\SkillRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\SkillRequest.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\SkillRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\SkillRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:30:51.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LocationRequest.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\LocationRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\LocationRequest.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\LocationRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\LocationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:30:38.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IndustryRequest.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\IndustryRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\IndustryRequest.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\IndustryRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\IndustryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:30:24.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "APIWorkshop",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\APIWorkshop.csproj",
+              "RelativeDocumentMoniker": "APIWorkshop.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\APIWorkshop.csproj",
+              "RelativeToolTip": "APIWorkshop.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T06:38:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\CategoryRequest.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\CategoryRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\CategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:30:09.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminLoginRequest.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\AdminLoginRequest.cs",
+              "RelativeDocumentMoniker": "API\\Admin\\RequestObjects\\AdminLoginRequest.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\API\\Admin\\RequestObjects\\AdminLoginRequest.cs",
+              "RelativeToolTip": "API\\Admin\\RequestObjects\\AdminLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:29:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:47:10.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\AuthUser.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\AuthUser.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\AuthUser.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\AuthUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:37:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApiWorkShopDbcontext.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\DAL\\ApiWorkShopDbcontext.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\DAL\\ApiWorkShopDbcontext.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\DAL\\ApiWorkShopDbcontext.cs",
+              "RelativeToolTip": "..\\DomainDAL\\DAL\\ApiWorkShopDbcontext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:56:01.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WorkExperience.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\WorkExperience.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\WorkExperience.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\WorkExperience.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\WorkExperience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:42:15.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\SystemUser.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\SystemUser.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\SystemUser.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\SystemUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:42:05.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Skill.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\Skill.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Skill.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:41:58.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SignUpRequest.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\SignUpRequest.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\SignUpRequest.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\SignUpRequest.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\SignUpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:41:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SavedJob.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\SavedJob.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\SavedJob.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\SavedJob.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\SavedJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:41:36.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\Role.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Role.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:41:19.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Resume.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\Resume.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Resume.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\Resume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:41:10.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Qualification.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\Qualification.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Qualification.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\Qualification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:40:58.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MessageGroup.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\MessageGroup.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\MessageGroup.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\MessageGroup.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\MessageGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:40:49.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Message.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\Message.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Message.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:40:38.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Location.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\Location.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Location.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:40:27.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JobSeekerProfileSkill.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobSeekerProfileSkill.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\JobSeekerProfileSkill.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobSeekerProfileSkill.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\JobSeekerProfileSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:40:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\JobSeekerProfile.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobSeekerProfile.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\JobSeekerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:40:06.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\JobSeeker.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobSeeker.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\JobSeeker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:39:56.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "JobResponsibility.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobResponsibility.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\JobResponsibility.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobResponsibility.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\JobResponsibility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:39:47.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "JobProviderCompany.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobProviderCompany.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\JobProviderCompany.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobProviderCompany.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\JobProviderCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:39:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobPost.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\JobPost.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobPost.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\JobPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:39:20.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "JobCategory.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobCategory.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\JobCategory.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobCategory.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\JobCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:39:13.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobApplication.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\JobApplication.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\JobApplication.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\JobApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:38:50.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Interview.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\Interview.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Interview.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\Interview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:38:12.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Industry.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\Industry.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\Industry.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\Industry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:38:02.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GroupMember.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\GroupMember.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\GroupMember.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\GroupMember.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\GroupMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:37:55.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CompanyUser.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\CompanyUser.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Model\\CompanyUser.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Model\\CompanyUser.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Model\\CompanyUser.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:37:41.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240724064807_fghj.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064807_fghj.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240724064807_fghj.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064807_fghj.cs",
+              "RelativeToolTip": "Migrations\\20240724064807_fghj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:48:07.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240724064506_fghj.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064506_fghj.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240724064506_fghj.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064506_fghj.cs",
+              "RelativeToolTip": "Migrations\\20240724064506_fghj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:45:06.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "APIWorkshop.http",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\APIWorkshop.http",
+              "RelativeDocumentMoniker": "APIWorkshop.http",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\APIWorkshop.http",
+              "RelativeToolTip": "APIWorkshop.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-24T05:15:25.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240724064148_fghj.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064148_fghj.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240724064148_fghj.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724064148_fghj.cs",
+              "RelativeToolTip": "Migrations\\20240724064148_fghj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:41:48.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240724053632_fghj.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724053632_fghj.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240724053632_fghj.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724053632_fghj.cs",
+              "RelativeToolTip": "Migrations\\20240724053632_fghj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:36:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T05:15:29.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240724051937_add.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724051937_add.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240724051937_add.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\Migrations\\20240724051937_add.cs",
+              "RelativeToolTip": "Migrations\\20240724051937_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:19:37.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Class1.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Class1.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:03:30.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:15:40.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\APIWorkshop\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\APIWorkshop\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:59:05.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LocationDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\LocationDto.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\Dto\\LocationDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\LocationDto.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\Dto\\LocationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:06:43.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "JobProviderDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\JobProviderDto.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\Dto\\JobProviderDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\JobProviderDto.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\Dto\\JobProviderDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:06:16.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "JobListDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\JobListDto.cs",
+              "RelativeDocumentMoniker": "..\\DomainDAL\\Services\\Admin\\Dto\\JobListDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\DomainDAL\\Services\\Admin\\Dto\\JobListDto.cs",
+              "RelativeToolTip": "..\\DomainDAL\\Services\\Admin\\Dto\\JobListDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:05:47.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

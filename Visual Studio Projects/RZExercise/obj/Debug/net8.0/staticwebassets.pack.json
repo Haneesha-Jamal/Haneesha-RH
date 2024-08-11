@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RZExercise.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RZExercise.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\Decoration (3).png",
+      "PackagePath": "staticwebassets\\Job\\images\\Decoration (3).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\Group 14.png",
+      "PackagePath": "staticwebassets\\Job\\images\\Group 14.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\Group 239625 (1).png",
+      "PackagePath": "staticwebassets\\Job\\images\\Group 239625 (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\Group 5689.png",
+      "PackagePath": "staticwebassets\\Job\\images\\Group 5689.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\add-group (1) 1 (2).png",
+      "PackagePath": "staticwebassets\\Job\\images\\add-group (1) 1 (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\application (1) 1 (2).png",
+      "PackagePath": "staticwebassets\\Job\\images\\application (1) 1 (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\arrow-down.png",
+      "PackagePath": "staticwebassets\\Job\\images\\arrow-down.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\calendar (2) 2.png",
+      "PackagePath": "staticwebassets\\Job\\images\\calendar (2) 2.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\cheerful-curly-business-girl-wearing-glasses 2.png",
+      "PackagePath": "staticwebassets\\Job\\images\\cheerful-curly-business-girl-wearing-glasses 2.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\dashboard 1 (2).png",
+      "PackagePath": "staticwebassets\\Job\\images\\dashboard 1 (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\home-button 4.png",
+      "PackagePath": "staticwebassets\\Job\\images\\home-button 4.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\message 1 (2).png",
+      "PackagePath": "staticwebassets\\Job\\images\\message 1 (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\question (1) 1 (2).png",
+      "PackagePath": "staticwebassets\\Job\\images\\question (1) 1 (2).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\settings 1 (1).png",
+      "PackagePath": "staticwebassets\\Job\\images\\settings 1 (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\Job\\images\\suitcase 2 (1).png",
+      "PackagePath": "staticwebassets\\Job\\images\\suitcase 2 (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\PublicAssets\\css\\home.css",
+      "PackagePath": "staticwebassets\\PublicAssets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\PublicAssets\\css\\landingStyle.css",
+      "PackagePath": "staticwebassets\\PublicAssets\\css\\landingStyle.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\PublicAssets\\images\\Google symbol.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Google symbol.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\PublicAssets\\images\\Login with google shape.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Login with google shape.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\PublicAssets\\images\\LoginPageImg.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\LoginPageImg.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\PublicAssets\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Logo.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\PublicAssets\\images\\Register Img.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\Register Img.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\PublicAssets\\images\\main-img.png",
+      "PackagePath": "staticwebassets\\PublicAssets\\images\\main-img.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\Group 33988.png",
+      "PackagePath": "staticwebassets\\images\\Group 33988.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\Group 33999.png",
+      "PackagePath": "staticwebassets\\images\\Group 33999.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\add-group (1) 1 (1).png",
+      "PackagePath": "staticwebassets\\images\\add-group (1) 1 (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\application (1) 1.png",
+      "PackagePath": "staticwebassets\\images\\application (1) 1.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\cheerful-curly-business-girl-wearing-glasses 1.png",
+      "PackagePath": "staticwebassets\\images\\cheerful-curly-business-girl-wearing-glasses 1.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\dashboard 1 (1).png",
+      "PackagePath": "staticwebassets\\images\\dashboard 1 (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\icon (1).png",
+      "PackagePath": "staticwebassets\\images\\icon (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\icon filter.png",
+      "PackagePath": "staticwebassets\\images\\icon filter.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\icon.png",
+      "PackagePath": "staticwebassets\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\message 1.png",
+      "PackagePath": "staticwebassets\\images\\message 1.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\notification-bing.png",
+      "PackagePath": "staticwebassets\\images\\notification-bing.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\question (1) 1.png",
+      "PackagePath": "staticwebassets\\images\\question (1) 1.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\search copy 2 (1).png",
+      "PackagePath": "staticwebassets\\images\\search copy 2 (1).png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\settings 1.png",
+      "PackagePath": "staticwebassets\\images\\settings 1.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\smiling-hr-employer-handshaking-successful-job-applicant-hiring-greeting 1.png",
+      "PackagePath": "staticwebassets\\images\\smiling-hr-employer-handshaking-successful-job-applicant-hiring-greeting 1.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\images\\suitcase 2.png",
+      "PackagePath": "staticwebassets\\images\\suitcase 2.png"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Store\\Razor Projects\\RZExercise\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RZExercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RZExercise.props",
+      "PackagePath": "build\\RZExercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RZExercise.props",
+      "PackagePath": "buildMultiTargeting\\RZExercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RZExercise.props",
+      "PackagePath": "buildTransitive\\RZExercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

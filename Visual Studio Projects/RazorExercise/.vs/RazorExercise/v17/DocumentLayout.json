@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\RazorExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|d:\\store\\razor projects\\razorexercise\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|d:\\store\\razor projects\\razorexercise\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\joblist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\joblist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\apply.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\apply.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\application.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\application.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\pages\\application.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:pages\\application.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|D:\\Store\\Razor Projects\\RazorExercise\\razorexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5A92BEC-845B-472E-9A01-E4EC3344D3FC}|RazorExercise.csproj|solutionrelative:razorexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T07:28:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T14:54:15.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:54:21.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:59:27.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:47:07.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:28:41.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAEgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T17:30:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T13:25:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Register.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:25:34.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T04:08:31.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:08:40.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Repository\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicationRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Repository\\ApplicationRepository.cs",
+              "RelativeToolTip": "Repository\\ApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:25:59.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "Repository\\JobRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:33:01.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:17:31.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Model\\Application.cs",
+              "RelativeDocumentMoniker": "Model\\Application.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Model\\Application.cs",
+              "RelativeToolTip": "Model\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:44:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "Model\\Job.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Model\\Job.cs",
+              "RelativeToolTip": "Model\\Job.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:59:35.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:22:42.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobList.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\JobList.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobList.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\JobList.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobList.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:59:04.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Apply.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Apply.cshtml",
+              "RelativeToolTip": "Pages\\Apply.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T03:42:51.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Apply.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Apply.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Apply.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Apply.cshtml.cs",
+              "RelativeToolTip": "Pages\\Apply.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:52:55.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobList.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\JobList.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobList.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\JobList.cshtml",
+              "RelativeToolTip": "Pages\\JobList.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T16:58:56.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Application.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Application.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Application.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Application.cshtml.cs",
+              "RelativeToolTip": "Pages\\Application.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:26:08.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Application.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Application.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Application.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\Pages\\Application.cshtml",
+              "RelativeToolTip": "Pages\\Application.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T04:26:05.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RazorExercise",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorExercise\\RazorExercise.csproj",
+              "RelativeDocumentMoniker": "RazorExercise.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorExercise\\RazorExercise.csproj",
+              "RelativeToolTip": "RazorExercise.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T06:32:06.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

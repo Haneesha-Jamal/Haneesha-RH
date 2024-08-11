@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\JWTActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\jwtactivity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:jwtactivity.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\extension\\applicationserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:extension\\applicationserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\dal\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:dal\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|d:\\store\\razor projects\\jwtactivity\\jwtactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E909B0A1-E03F-4814-B742-A7BEEB5FAB87}|JWTActivity.csproj|solutionrelative:jwtactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Store\\Razor Projects\\JWTActivity\\Migrations\\20240718072707_Add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240718072707_Add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JWTActivity.http",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\JWTActivity.http",
+              "RelativeDocumentMoniker": "JWTActivity.http",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\JWTActivity.http",
+              "RelativeToolTip": "JWTActivity.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-18T08:48:08.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:28:20.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JWTActivity",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\JWTActivity.csproj",
+              "RelativeDocumentMoniker": "JWTActivity.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\JWTActivity.csproj",
+              "RelativeToolTip": "JWTActivity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T06:59:27.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\DAL\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDbContext.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\DAL\\UserDbContext.cs",
+              "RelativeToolTip": "DAL\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:03:32.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T07:19:54.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:25:06.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Enums\\Roles.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\Enums\\Roles.cs",
+              "RelativeToolTip": "Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:33:45.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationServiceException.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\Extension\\ApplicationServiceException.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceException.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\Extension\\ApplicationServiceException.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:03:20.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240718072707_Add.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\Migrations\\20240718072707_Add.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240718072707_Add.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\Migrations\\20240718072707_Add.cs",
+              "RelativeToolTip": "Migrations\\20240718072707_Add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:27:07.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\JWTActivity\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\JWTActivity\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:00:16.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

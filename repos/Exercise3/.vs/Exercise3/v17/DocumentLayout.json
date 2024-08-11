@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jamal\\source\\repos\\Exercise3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|c:\\users\\jamal\\source\\repos\\exercise3\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\interface\\iinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:interface\\iinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\interface\\ijobprovide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:interface\\ijobprovide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\interface\\iapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:interface\\iapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\model\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:model\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\enums\\experiancelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:enums\\experiancelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:interface\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|C:\\Users\\jamal\\source\\repos\\Exercise3\\exercise3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC74EF6E-96B1-4C03-AF4B-B938B386D1B5}|Exercise3.csproj|solutionrelative:exercise3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jamal\\source\\repos\\exercise3\\exception\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exception\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jamal\\source\\repos\\exercise3\\exception\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exception\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lists.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Lists.cs",
+              "RelativeDocumentMoniker": "Lists.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Lists.cs",
+              "RelativeToolTip": "Lists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:54:24.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Manager\\JobManager.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Manager\\JobManager.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAgwDAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:16:58.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Model\\Application.cs",
+              "RelativeDocumentMoniker": "Model\\Application.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Model\\Application.cs",
+              "RelativeToolTip": "Model\\Application.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:08:58.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IApplication.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IApplication.cs",
+              "RelativeDocumentMoniker": "Interface\\IApplication.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IApplication.cs",
+              "RelativeToolTip": "Interface\\IApplication.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:25:14.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInterview.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IInterview.cs",
+              "RelativeDocumentMoniker": "Interface\\IInterview.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IInterview.cs",
+              "RelativeToolTip": "Interface\\IInterview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:25:30.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:11:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Manager\\PublicManager.cs",
+              "RelativeDocumentMoniker": "Manager\\PublicManager.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Manager\\PublicManager.cs",
+              "RelativeToolTip": "Manager\\PublicManager.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAADkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:59:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJobProvide.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IJobProvide.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobProvide.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IJobProvide.cs",
+              "RelativeToolTip": "Interface\\IJobProvide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:21:01.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jobs.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Model\\Jobs.cs",
+              "RelativeDocumentMoniker": "Model\\Jobs.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Model\\Jobs.cs",
+              "RelativeToolTip": "Model\\Jobs.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:08:41.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:03:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserAlreadyExistException.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\UserAlreadyExistException.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeToolTip": "Exceptions\\UserAlreadyExistException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:06:05.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvalidFormatException.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exceptions\\InvalidFormatException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidFormatException.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exceptions\\InvalidFormatException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidFormatException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:06:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:21:33.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA8wCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:08:51.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExperianceLevel.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Enums\\ExperianceLevel.cs",
+              "RelativeDocumentMoniker": "Enums\\ExperianceLevel.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Enums\\ExperianceLevel.cs",
+              "RelativeToolTip": "Enums\\ExperianceLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:01:53.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Enums\\Roles.cs",
+              "RelativeToolTip": "Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:05:13.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IMenu.cs",
+              "RelativeDocumentMoniker": "Interface\\IMenu.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Interface\\IMenu.cs",
+              "RelativeToolTip": "Interface\\IMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:20:21.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Model\\Interview.cs",
+              "RelativeDocumentMoniker": "Model\\Interview.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Model\\Interview.cs",
+              "RelativeToolTip": "Model\\Interview.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:10:27.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvalidFormatException.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exception\\InvalidFormatException.cs",
+              "RelativeDocumentMoniker": "Exception\\InvalidFormatException.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exception\\InvalidFormatException.cs",
+              "RelativeToolTip": "Exception\\InvalidFormatException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:08:14.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserAlreadyExistException.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exception\\UserAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Exception\\UserAlreadyExistException.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exception\\UserAlreadyExistException.cs",
+              "RelativeToolTip": "Exception\\UserAlreadyExistException.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:08:46.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Exercise3",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exercise3.csproj",
+              "RelativeDocumentMoniker": "Exercise3.csproj",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\Exercise3\\Exercise3.csproj",
+              "RelativeToolTip": "Exercise3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T03:54:09.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|d:\\store\\visual studio projects\\crudwithrazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\pages\\publicmaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:pages\\publicmaster\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\crudwithrazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6D96D1A-CAB0-41E5-B2DC-9B5CD70F78E2}|CRUDwithRazor.csproj|solutionrelative:crudwithrazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T16:00:10.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:00:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Create.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Create.cshtml.cs*",
+              "RelativeToolTip": "..\\..\\Razor Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Create.cshtml.cs*",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:51:17.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Dal\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Dal\\AppDbContext.cs",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Dal\\AppDbContext.cs",
+              "RelativeToolTip": "Dal\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:54:09.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Details.cshtml.cs",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\PublicMaster\\Details.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:51:20.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\PublicMaster\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:51:18.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:13:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Create.cshtml",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Create.cshtml",
+              "RelativeToolTip": "Pages\\PublicMaster\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:51:16.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\PublicMaster\\Delete.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:51:21.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Index.cshtml",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Index.cshtml",
+              "RelativeToolTip": "Pages\\PublicMaster\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:51:21.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Index.cshtml.cs",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\PublicMaster\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:51:22.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Delete.cshtml",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\PublicMaster\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:51:20.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Details.cshtml",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Details.cshtml",
+              "RelativeToolTip": "Pages\\PublicMaster\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:51:19.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PublicMaster\\Edit.cshtml",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Pages\\PublicMaster\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\PublicMaster\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T08:51:18.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T08:07:45.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CRUDwithRazor",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\CRUDwithRazor.csproj",
+              "RelativeDocumentMoniker": "CRUDwithRazor.csproj",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\CRUDwithRazor.csproj",
+              "RelativeToolTip": "CRUDwithRazor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T07:53:36.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Store\\Visual Studio Projects\\CRUDwithRazor\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:50:02.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

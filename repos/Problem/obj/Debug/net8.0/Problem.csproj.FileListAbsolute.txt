@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\Problem\bin\Debug\net8.0\Problem.exe
+C:\Users\jamal\source\repos\Problem\bin\Debug\net8.0\Problem.deps.json
+C:\Users\jamal\source\repos\Problem\bin\Debug\net8.0\Problem.runtimeconfig.json
+C:\Users\jamal\source\repos\Problem\bin\Debug\net8.0\Problem.dll
+C:\Users\jamal\source\repos\Problem\bin\Debug\net8.0\Problem.pdb
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\Problem.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\Problem.AssemblyInfo.cs
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\Problem.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\Problem.sourcelink.json
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\Problem.dll
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\refint\Problem.dll
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\Problem.pdb
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\Problem.genruntimeconfig.cache
+C:\Users\jamal\source\repos\Problem\obj\Debug\net8.0\ref\Problem.dll

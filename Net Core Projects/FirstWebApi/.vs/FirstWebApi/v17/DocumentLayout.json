@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\FirstWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|d:\\store\\razor projects\\firstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|d:\\store\\razor projects\\firstwebapi\\appicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|solutionrelative:appicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|d:\\store\\razor projects\\firstwebapi\\branddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|solutionrelative:branddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Store\\Razor Projects\\FirstWebApi\\Migrations\\20240717063511_Addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240717063511_Addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|d:\\store\\razor projects\\firstwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|d:\\store\\razor projects\\firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|d:\\store\\razor projects\\firstwebapi\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|solutionrelative:brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|d:\\store\\razor projects\\firstwebapi\\firstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0A215A6-DE2C-4289-82C4-D973B55E103D}|FirstWebApi.csproj|solutionrelative:firstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\FirstWebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\FirstWebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:38:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240717063511_Addd.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\FirstWebApi\\Migrations\\20240717063511_Addd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240717063511_Addd.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\FirstWebApi\\Migrations\\20240717063511_Addd.cs",
+              "RelativeToolTip": "Migrations\\20240717063511_Addd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:35:11.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\FirstWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\FirstWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:24:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\FirstWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Store\\Razor Projects\\FirstWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T06:22:15.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandDbContext.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\FirstWebApi\\BrandDbContext.cs",
+              "RelativeDocumentMoniker": "BrandDbContext.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\FirstWebApi\\BrandDbContext.cs",
+              "RelativeToolTip": "BrandDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:15:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\FirstWebApi\\AppicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "AppicationServiceExtension.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\FirstWebApi\\AppicationServiceExtension.cs",
+              "RelativeToolTip": "AppicationServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:17:52.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\FirstWebApi\\Brand.cs",
+              "RelativeDocumentMoniker": "Brand.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\FirstWebApi\\Brand.cs",
+              "RelativeToolTip": "Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:14:17.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstWebApi",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\FirstWebApi\\FirstWebApi.csproj",
+              "RelativeDocumentMoniker": "FirstWebApi.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\FirstWebApi\\FirstWebApi.csproj",
+              "RelativeToolTip": "FirstWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T06:13:59.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

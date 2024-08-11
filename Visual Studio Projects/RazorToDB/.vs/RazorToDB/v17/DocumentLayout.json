@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\RazorToDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|d:\\store\\razor projects\\razortodb\\migrations\\20240610071017_modifiedstudententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|solutionrelative:migrations\\20240610071017_modifiedstudententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|D:\\Store\\Razor Projects\\RazorToDB\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|solutionrelative:schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|D:\\Store\\Razor Projects\\RazorToDB\\migrations\\20240610064317_data source=desktop-a4lfvat;initial catalog=schooldb;integrated security=true;trust server certificate=true.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|solutionrelative:migrations\\20240610064317_data source=desktop-a4lfvat;initial catalog=schooldb;integrated security=true;trust server certificate=true.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|D:\\Store\\Razor Projects\\RazorToDB\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|D:\\Store\\Razor Projects\\RazorToDB\\model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|solutionrelative:model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|D:\\Store\\Razor Projects\\RazorToDB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82F4582-8CB1-4666-864A-2CE79B7A4815}|RazorToDB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240610071017_ModifiedStudentEntity.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorToDB\\Migrations\\20240610071017_ModifiedStudentEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240610071017_ModifiedStudentEntity.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorToDB\\Migrations\\20240610071017_ModifiedStudentEntity.cs",
+              "RelativeToolTip": "Migrations\\20240610071017_ModifiedStudentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:10:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240610064317_Data Source=DESKTOP-A4LFVAT;Initial Catalog=SCHOOLDB;Integrated Security=True;Trust Server Certificate=True.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorToDB\\Migrations\\20240610064317_Data Source=DESKTOP-A4LFVAT;Initial Catalog=SCHOOLDB;Integrated Security=True;Trust Server Certificate=True.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240610064317_Data Source=DESKTOP-A4LFVAT;Initial Catalog=SCHOOLDB;Integrated Security=True;Trust Server Certificate=True.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorToDB\\Migrations\\20240610064317_Data Source=DESKTOP-A4LFVAT;Initial Catalog=SCHOOLDB;Integrated Security=True;Trust Server Certificate=True.cs",
+              "RelativeToolTip": "Migrations\\20240610064317_Data Source=DESKTOP-A4LFVAT;Initial Catalog=SCHOOLDB;Integrated Security=True;Trust Server Certificate=True.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:05:21.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorToDB\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolContext.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorToDB\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:38:27.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorToDB\\Model\\Grade.cs",
+              "RelativeDocumentMoniker": "Model\\Grade.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorToDB\\Model\\Grade.cs",
+              "RelativeToolTip": "Model\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:22:35.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorToDB\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorToDB\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:22:21.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorToDB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorToDB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:16:44.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

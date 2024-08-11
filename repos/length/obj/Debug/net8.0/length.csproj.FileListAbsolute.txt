@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\length\bin\Debug\net8.0\length.exe
+C:\Users\jamal\source\repos\length\bin\Debug\net8.0\length.deps.json
+C:\Users\jamal\source\repos\length\bin\Debug\net8.0\length.runtimeconfig.json
+C:\Users\jamal\source\repos\length\bin\Debug\net8.0\length.dll
+C:\Users\jamal\source\repos\length\bin\Debug\net8.0\length.pdb
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\length.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\length.AssemblyInfo.cs
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\length.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\length.sourcelink.json
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\length.dll
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\refint\length.dll
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\length.pdb
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\length.genruntimeconfig.cache
+C:\Users\jamal\source\repos\length\obj\Debug\net8.0\ref\length.dll

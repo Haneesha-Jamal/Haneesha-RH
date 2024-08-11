@@ -1,0 +1,14 @@
+D:\Store\Razor Projects\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.exe
+D:\Store\Razor Projects\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.deps.json
+D:\Store\Razor Projects\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+D:\Store\Razor Projects\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.dll
+D:\Store\Razor Projects\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.pdb
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.dll
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.pdb
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+D:\Store\Razor Projects\StudentManagementSystem\obj\Debug\net8.0\ref\StudentManagementSystem.dll

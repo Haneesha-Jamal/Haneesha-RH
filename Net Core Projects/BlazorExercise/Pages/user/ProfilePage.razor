@@ -1,0 +1,108 @@
+﻿@page "/ProfilePage"
+@using BlazorExercise.Interface
+@layout LoginLayout
+@inject IUserService IuserService
+@inject NavigationManager NavManager
+@using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage
+@inject ProtectedSessionStorage protectedSessionStorage
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Hire Me Now</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <NavLink class="nav-link" href="/all-jobs">All Jobs <span class="sr-only">(current)</span></NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="/my-applications">My Applications</NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="/messages">Messages</NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="/profile">My Profile</NavLink>
+            </li>
+            <li class="nav-item">
+                <NavLink class="nav-link" href="/settings">Settings</NavLink>
+            </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">About Me</h5>
+                    <ul>
+                        <li>Skills</li>
+                        <li>Education</li>
+                        <li>Course</li>
+                        <li>From</li>
+                        <li>Year</li>
+                        <li>Mark</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Experience</h5>
+                    <ul>
+                        <li>Company</li>
+                        <li>Year</li>
+                        <li>Duration</li>
+                        <li>Designation</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <h1>Ideal platform for job seekers passionate about startups and seeking new career opportunities.</h1>
+            <p>Hire Me Now!</p>
+            <button class="btn btn-primary">Get Notified every new job</button>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">About us</h5>
+                    <ul>
+                        <li><NavLink href="/">Home</NavLink></li>
+                        <li><NavLink href="/features">Feature</NavLink></li>
+                        <li><NavLink href="/team">Team</NavLink></li>
+                        <li><NavLink href="/company">Company</NavLink></li>
+                        <li><NavLink href="/contact-us">Contact us</NavLink></li>
+                        <li><NavLink href="/career">Career</NavLink></li>
+                        <li><NavLink href="/pricing">Pricing</NavLink></li>
+                        <li><NavLink href="/blog">Blog</NavLink></li>
+                        <li><NavLink href="/support">Support</NavLink></li>
+                        <li><NavLink href="/privacy">Privacy</NavLink></li>
+                        <li><NavLink href="/faq">FAQ</NavLink></li>
+                        <li><NavLink href="/contact">Contact</NavLink></li>
+                        <li><NavLink href="/logout">Logout</NavLink></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <p>&copy; 2023 Job Portal</p>
+    </div>
+</footer>
+
+@code {
+
+     //IuserService.memberListing();
+    
+    // NavManager.NavigateTo("/profile-page");
+
+}

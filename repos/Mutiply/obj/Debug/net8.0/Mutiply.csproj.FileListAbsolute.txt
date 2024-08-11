@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\Mutiply\bin\Debug\net8.0\Mutiply.exe
+C:\Users\jamal\source\repos\Mutiply\bin\Debug\net8.0\Mutiply.deps.json
+C:\Users\jamal\source\repos\Mutiply\bin\Debug\net8.0\Mutiply.runtimeconfig.json
+C:\Users\jamal\source\repos\Mutiply\bin\Debug\net8.0\Mutiply.dll
+C:\Users\jamal\source\repos\Mutiply\bin\Debug\net8.0\Mutiply.pdb
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\Mutiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\Mutiply.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\Mutiply.AssemblyInfo.cs
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\Mutiply.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\Mutiply.sourcelink.json
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\Mutiply.dll
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\refint\Mutiply.dll
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\Mutiply.pdb
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\Mutiply.genruntimeconfig.cache
+C:\Users\jamal\source\repos\Mutiply\obj\Debug\net8.0\ref\Mutiply.dll

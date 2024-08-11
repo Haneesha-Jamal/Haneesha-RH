@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\NewBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|d:\\store\\razor projects\\newblazorapp\\pages\\addcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:pages\\addcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Store\\Razor Projects\\NewBlazorApp\\Migrations\\20240711074445_aaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240711074445_aaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\dal\\newdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:dal\\newdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|d:\\store\\razor projects\\newblazorapp\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\repository\\personrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:repository\\personrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\interface\\ipersonrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:interface\\ipersonrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\interface\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:interface\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|D:\\Store\\Razor Projects\\NewBlazorApp\\newblazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D56449E7-858B-4AEF-A029-A819A8E7FCA0}|NewBlazorApp.csproj|solutionrelative:newblazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddComponent.razor",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Pages\\AddComponent.razor",
+              "RelativeDocumentMoniker": "Pages\\AddComponent.razor",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Pages\\AddComponent.razor",
+              "RelativeToolTip": "Pages\\AddComponent.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T08:04:27.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240711074445_aaaaa.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Migrations\\20240711074445_aaaaa.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240711074445_aaaaa.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Migrations\\20240711074445_aaaaa.cs",
+              "RelativeToolTip": "Migrations\\20240711074445_aaaaa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:44:45.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T06:57:32.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Service\\PersonService.cs",
+              "RelativeDocumentMoniker": "Service\\PersonService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Service\\PersonService.cs",
+              "RelativeToolTip": "Service\\PersonService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:28:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Dto\\PersonDto.cs",
+              "RelativeDocumentMoniker": "Dto\\PersonDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Dto\\PersonDto.cs",
+              "RelativeToolTip": "Dto\\PersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:17:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewDbContext.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\DAL\\NewDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\NewDbContext.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\DAL\\NewDbContext.cs",
+              "RelativeToolTip": "DAL\\NewDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:57:20.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Model\\Person.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Model\\Person.cs",
+              "RelativeToolTip": "Model\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:54:21.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Enums\\Roles.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Enums\\Roles.cs",
+              "RelativeToolTip": "Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:56:05.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "Data\\WeatherForecastService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "Data\\WeatherForecastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:36:12.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:09:51.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:00:36.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonRepo.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Repository\\PersonRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\PersonRepo.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Repository\\PersonRepo.cs",
+              "RelativeToolTip": "Repository\\PersonRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:28:16.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPersonRepo.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Interface\\IPersonRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IPersonRepo.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Interface\\IPersonRepo.cs",
+              "RelativeToolTip": "Interface\\IPersonRepo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:22:47.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:19:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\Interface\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Interface\\IPersonService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\Interface\\IPersonService.cs",
+              "RelativeToolTip": "Interface\\IPersonService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:23:00.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewBlazorApp.csproj",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\NewBlazorApp\\NewBlazorApp.csproj",
+              "RelativeDocumentMoniker": "NewBlazorApp.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\NewBlazorApp\\NewBlazorApp.csproj",
+              "RelativeToolTip": "NewBlazorApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T05:55:43.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

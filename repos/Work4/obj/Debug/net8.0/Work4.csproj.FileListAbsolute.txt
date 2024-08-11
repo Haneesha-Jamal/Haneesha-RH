@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\Work4\bin\Debug\net8.0\Work4.exe
+C:\Users\jamal\source\repos\Work4\bin\Debug\net8.0\Work4.deps.json
+C:\Users\jamal\source\repos\Work4\bin\Debug\net8.0\Work4.runtimeconfig.json
+C:\Users\jamal\source\repos\Work4\bin\Debug\net8.0\Work4.dll
+C:\Users\jamal\source\repos\Work4\bin\Debug\net8.0\Work4.pdb
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\Work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\Work4.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\Work4.AssemblyInfo.cs
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\Work4.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\Work4.sourcelink.json
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\Work4.dll
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\refint\Work4.dll
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\Work4.pdb
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\Work4.genruntimeconfig.cache
+C:\Users\jamal\source\repos\Work4\obj\Debug\net8.0\ref\Work4.dll

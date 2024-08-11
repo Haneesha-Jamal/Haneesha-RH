@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\Star\bin\Debug\net8.0\Star.exe
+C:\Users\jamal\source\repos\Star\bin\Debug\net8.0\Star.deps.json
+C:\Users\jamal\source\repos\Star\bin\Debug\net8.0\Star.runtimeconfig.json
+C:\Users\jamal\source\repos\Star\bin\Debug\net8.0\Star.dll
+C:\Users\jamal\source\repos\Star\bin\Debug\net8.0\Star.pdb
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\Star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\Star.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\Star.AssemblyInfo.cs
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\Star.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\Star.sourcelink.json
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\Star.dll
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\refint\Star.dll
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\Star.pdb
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\Star.genruntimeconfig.cache
+C:\Users\jamal\source\repos\Star\obj\Debug\net8.0\ref\Star.dll

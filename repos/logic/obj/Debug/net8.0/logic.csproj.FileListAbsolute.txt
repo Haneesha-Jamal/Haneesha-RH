@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\logic\bin\Debug\net8.0\logic.exe
+C:\Users\jamal\source\repos\logic\bin\Debug\net8.0\logic.deps.json
+C:\Users\jamal\source\repos\logic\bin\Debug\net8.0\logic.runtimeconfig.json
+C:\Users\jamal\source\repos\logic\bin\Debug\net8.0\logic.dll
+C:\Users\jamal\source\repos\logic\bin\Debug\net8.0\logic.pdb
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\logic.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\logic.AssemblyInfo.cs
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\logic.sourcelink.json
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\logic.dll
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\refint\logic.dll
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\logic.pdb
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\logic.genruntimeconfig.cache
+C:\Users\jamal\source\repos\logic\obj\Debug\net8.0\ref\logic.dll

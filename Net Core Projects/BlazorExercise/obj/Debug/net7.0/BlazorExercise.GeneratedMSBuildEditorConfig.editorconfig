@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorExercise
+build_property.RootNamespace = BlazorExercise
+build_property.ProjectDir = D:\Store\Razor Projects\BlazorExercise\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Store\Razor Projects\BlazorExercise
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Store/Razor Projects/BlazorExercise/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/AboutUsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcQWJvdXRVc0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/CategorySectionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcQ2F0ZWdvcnlTZWN0aW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/FooterComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcRm9vdGVyQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/HelpComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcSGVscENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/HiredComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcSGlyZWRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/HomeSectionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcSG9tZVNlY3Rpb25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/JobAlertSectionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcSm9iQWxlcnRTZWN0aW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/PopularJobsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcUG9wdWxhckpvYnNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/HomePageComponent/RegistrationComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2VDb21wb25lbnRcUmVnaXN0cmF0aW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/LoginComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/RegisterComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/user/ProfilePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlclxQcm9maWxlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Shared/PublicLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFB1YmxpY0xheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-g3wpm12ol4
+
+[D:/Store/Razor Projects/BlazorExercise/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bp0c1w32wi
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/BlazorExercise/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

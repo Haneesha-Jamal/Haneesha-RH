@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\RazorWorkshop4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\shared\\_joblistlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\shared\\_joblistlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|d:\\store\\razor projects\\razorworkshop4\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\shared\\profilelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\shared\\profilelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\joblist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\joblist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|d:\\store\\razor projects\\razorworkshop4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\jobrepositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:jobrepositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\postjob.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\postjob.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\services\\jobportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:services\\jobportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\interfaces\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:interfaces\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\razorworkshop4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:razorworkshop4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|D:\\Store\\Razor Projects\\RazorWorkshop4\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8664A02-B4ED-4ED6-B26D-C14285CFC3C7}|RazorWorkshop4.csproj|solutionrelative:interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:09:57.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:49:16.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileLayout.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Shared\\ProfileLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\ProfileLayout.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Shared\\ProfileLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\ProfileLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:54:41.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_JobListLayout.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Shared\\_JobListLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_JobListLayout.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Shared\\_JobListLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_JobListLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:54:49.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_HomeLayout.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Shared\\_HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_HomeLayout.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Shared\\_HomeLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_HomeLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:54:48.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Profile.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Profile.cshtml",
+              "RelativeToolTip": "Pages\\Profile.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:47:01.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobList.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\JobList.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobList.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\JobList.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobList.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:45:30.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobList.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\JobList.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobList.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\JobList.cshtml",
+              "RelativeToolTip": "Pages\\JobList.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T07:45:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:52:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\JobRepositories\\JobRepository.cs",
+              "RelativeDocumentMoniker": "JobRepositories\\JobRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\JobRepositories\\JobRepository.cs",
+              "RelativeToolTip": "JobRepositories\\JobRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:51:44.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostJob.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\PostJob.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PostJob.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\PostJob.cshtml",
+              "RelativeToolTip": "Pages\\PostJob.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAD8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:15:56.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostJob.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\PostJob.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PostJob.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\PostJob.cshtml.cs",
+              "RelativeToolTip": "Pages\\PostJob.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:17:13.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T08:52:09.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-26T08:50:51.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Profile.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Pages\\Profile.cshtml.cs",
+              "RelativeToolTip": "Pages\\Profile.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:47:05.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobPortal.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Services\\JobPortal.cs",
+              "RelativeDocumentMoniker": "Services\\JobPortal.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Services\\JobPortal.cs",
+              "RelativeToolTip": "Services\\JobPortal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:52:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T07:15:51.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:36:28.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RazorWorkshop4",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\RazorWorkshop4.csproj",
+              "RelativeDocumentMoniker": "RazorWorkshop4.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\RazorWorkshop4.csproj",
+              "RelativeToolTip": "RazorWorkshop4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T06:50:29.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Interfaces\\IMenu.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMenu.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Interfaces\\IMenu.cs",
+              "RelativeToolTip": "Interfaces\\IMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:36:08.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJobProvider.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Interfaces\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IJobProvider.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RazorWorkshop4\\Interfaces\\IJobProvider.cs",
+              "RelativeToolTip": "Interfaces\\IJobProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:35:56.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

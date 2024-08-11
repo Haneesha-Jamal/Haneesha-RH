@@ -1,0 +1,30 @@
+﻿@page "/AddComponent"
+@using NewBlazorApp.Dto;
+@using NewBlazorApp.Interface;
+@using NewBlazorApp.Service;
+@inject IPersonService PersonService
+
+<h3>People</h3>
+
+@if (people == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <ul>
+        @foreach (var person in people)
+        {
+            <li>@person.FirstName @person.LastName</li>
+        }
+    </ul>
+}
+
+@code {
+    private IEnumerable<PersonDto> people;
+
+    protected override async Task OnInitializedAsync()
+    {
+        people = await PersonService.GetAllPersonsAsync();
+    }
+}

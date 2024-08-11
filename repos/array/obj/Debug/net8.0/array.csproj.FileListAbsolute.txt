@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\array.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\array.AssemblyInfo.cs
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\array.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\array.sourcelink.json
+C:\Users\jamal\source\repos\array\bin\Debug\net8.0\array.exe
+C:\Users\jamal\source\repos\array\bin\Debug\net8.0\array.deps.json
+C:\Users\jamal\source\repos\array\bin\Debug\net8.0\array.runtimeconfig.json
+C:\Users\jamal\source\repos\array\bin\Debug\net8.0\array.dll
+C:\Users\jamal\source\repos\array\bin\Debug\net8.0\array.pdb
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\array.dll
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\refint\array.dll
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\array.pdb
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\array.genruntimeconfig.cache
+C:\Users\jamal\source\repos\array\obj\Debug\net8.0\ref\array.dll

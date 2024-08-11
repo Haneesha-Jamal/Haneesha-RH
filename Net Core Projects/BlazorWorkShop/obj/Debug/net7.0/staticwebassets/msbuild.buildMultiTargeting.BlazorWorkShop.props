@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorWorkShop.props" />
+</Project>

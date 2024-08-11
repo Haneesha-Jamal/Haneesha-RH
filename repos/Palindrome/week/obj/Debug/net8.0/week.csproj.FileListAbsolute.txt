@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\week\bin\Debug\net8.0\week.exe
+C:\Users\jamal\source\repos\week\bin\Debug\net8.0\week.deps.json
+C:\Users\jamal\source\repos\week\bin\Debug\net8.0\week.runtimeconfig.json
+C:\Users\jamal\source\repos\week\bin\Debug\net8.0\week.dll
+C:\Users\jamal\source\repos\week\bin\Debug\net8.0\week.pdb
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\week.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\week.AssemblyInfo.cs
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\week.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\week.sourcelink.json
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\week.dll
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\refint\week.dll
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\week.pdb
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\week.genruntimeconfig.cache
+C:\Users\jamal\source\repos\week\obj\Debug\net8.0\ref\week.dll

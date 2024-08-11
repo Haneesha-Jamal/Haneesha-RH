@@ -1,0 +1,14 @@
+D:\Store\Razor Projects\DomainDAL\bin\Debug\net8.0\DomainDAL.deps.json
+D:\Store\Razor Projects\DomainDAL\bin\Debug\net8.0\DomainDAL.runtimeconfig.json
+D:\Store\Razor Projects\DomainDAL\bin\Debug\net8.0\DomainDAL.dll
+D:\Store\Razor Projects\DomainDAL\bin\Debug\net8.0\DomainDAL.pdb
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\DomainDAL.csproj.AssemblyReference.cache
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\DomainDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\DomainDAL.AssemblyInfoInputs.cache
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\DomainDAL.AssemblyInfo.cs
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\DomainDAL.csproj.CoreCompileInputs.cache
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\DomainDAL.dll
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\refint\DomainDAL.dll
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\DomainDAL.pdb
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\DomainDAL.genruntimeconfig.cache
+D:\Store\Razor Projects\DomainDAL\obj\Debug\net8.0\ref\DomainDAL.dll

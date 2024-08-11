@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\JobPortal\bin\Debug\net8.0\JobPortal.exe
+C:\Users\jamal\source\repos\JobPortal\bin\Debug\net8.0\JobPortal.deps.json
+C:\Users\jamal\source\repos\JobPortal\bin\Debug\net8.0\JobPortal.runtimeconfig.json
+C:\Users\jamal\source\repos\JobPortal\bin\Debug\net8.0\JobPortal.dll
+C:\Users\jamal\source\repos\JobPortal\bin\Debug\net8.0\JobPortal.pdb
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\JobPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\JobPortal.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\JobPortal.AssemblyInfo.cs
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\JobPortal.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\JobPortal.sourcelink.json
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\JobPortal.dll
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\refint\JobPortal.dll
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\JobPortal.pdb
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\JobPortal.genruntimeconfig.cache
+C:\Users\jamal\source\repos\JobPortal\obj\Debug\net8.0\ref\JobPortal.dll

@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\repos\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98AB3B-49C7-44A0-B653-4197A5DD3B48}|StudentManagementSystem.csproj|d:\\store\\repos\\studentmanagementsystem\\manager\\studentcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98AB3B-49C7-44A0-B653-4197A5DD3B48}|StudentManagementSystem.csproj|solutionrelative:manager\\studentcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98AB3B-49C7-44A0-B653-4197A5DD3B48}|StudentManagementSystem.csproj|D:\\Store\\repos\\StudentManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98AB3B-49C7-44A0-B653-4197A5DD3B48}|StudentManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98AB3B-49C7-44A0-B653-4197A5DD3B48}|StudentManagementSystem.csproj|D:\\Store\\repos\\StudentManagementSystem\\interface\\istudentcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98AB3B-49C7-44A0-B653-4197A5DD3B48}|StudentManagementSystem.csproj|solutionrelative:interface\\istudentcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98AB3B-49C7-44A0-B653-4197A5DD3B48}|StudentManagementSystem.csproj|D:\\Store\\repos\\StudentManagementSystem\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F98AB3B-49C7-44A0-B653-4197A5DD3B48}|StudentManagementSystem.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentCollection.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\StudentManagementSystem\\Manager\\StudentCollection.cs",
+              "RelativeDocumentMoniker": "Manager\\StudentCollection.cs",
+              "ToolTip": "D:\\Store\\repos\\StudentManagementSystem\\Manager\\StudentCollection.cs",
+              "RelativeToolTip": "Manager\\StudentCollection.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:19:54.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentCollection.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\StudentManagementSystem\\Interface\\IStudentCollection.cs",
+              "RelativeDocumentMoniker": "Interface\\IStudentCollection.cs",
+              "ToolTip": "D:\\Store\\repos\\StudentManagementSystem\\Interface\\IStudentCollection.cs",
+              "RelativeToolTip": "Interface\\IStudentCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:15:09.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\StudentManagementSystem\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "D:\\Store\\repos\\StudentManagementSystem\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:11:03.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\repos\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:05:05.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

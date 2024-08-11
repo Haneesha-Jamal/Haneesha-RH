@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\Average\bin\Debug\net8.0\Average.exe
+C:\Users\jamal\source\repos\Average\bin\Debug\net8.0\Average.deps.json
+C:\Users\jamal\source\repos\Average\bin\Debug\net8.0\Average.runtimeconfig.json
+C:\Users\jamal\source\repos\Average\bin\Debug\net8.0\Average.dll
+C:\Users\jamal\source\repos\Average\bin\Debug\net8.0\Average.pdb
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\Average.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\Average.AssemblyInfo.cs
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\Average.sourcelink.json
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\Average.dll
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\refint\Average.dll
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\Average.pdb
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\Average.genruntimeconfig.cache
+C:\Users\jamal\source\repos\Average\obj\Debug\net8.0\ref\Average.dll

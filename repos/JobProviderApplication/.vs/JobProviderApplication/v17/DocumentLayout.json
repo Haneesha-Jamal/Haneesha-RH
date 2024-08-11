@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\repos\\JobProviderApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|D:\\Store\\repos\\JobProviderApplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|D:\\Store\\repos\\JobProviderApplication\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|d:\\store\\repos\\jobproviderapplication\\manager\\jobprovider_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:manager\\jobprovider_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|D:\\Store\\repos\\JobProviderApplication\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|D:\\Store\\repos\\JobProviderApplication\\manager\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:manager\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|D:\\Store\\repos\\JobProviderApplication\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|D:\\Store\\repos\\JobProviderApplication\\interface\\iinterviewprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:interface\\iinterviewprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|D:\\Store\\repos\\JobProviderApplication\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|D:\\Store\\repos\\JobProviderApplication\\interface\\iapplicationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C1080E-ABCF-48E2-8866-363CD465A260}|JobProviderApplication.csproj|solutionrelative:interface\\iapplicationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Manager\\Printer.cs",
+              "RelativeDocumentMoniker": "Manager\\Printer.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Manager\\Printer.cs",
+              "RelativeToolTip": "Manager\\Printer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:20:16.986Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:12:35.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobProvider_Manager.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Manager\\JobProvider_Manager.cs",
+              "RelativeDocumentMoniker": "Manager\\JobProvider_Manager.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Manager\\JobProvider_Manager.cs",
+              "RelativeToolTip": "Manager\\JobProvider_Manager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:08:46.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "Models\\Interview.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Models\\Interview.cs",
+              "RelativeToolTip": "Models\\Interview.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:12:22.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Models\\Application.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Models\\Application.cs",
+              "RelativeToolTip": "Models\\Application.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:58:40.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:33:34.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInterviewProvider.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Interface\\IInterviewProvider.cs",
+              "RelativeDocumentMoniker": "Interface\\IInterviewProvider.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Interface\\IInterviewProvider.cs",
+              "RelativeToolTip": "Interface\\IInterviewProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:57:58.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJobProvider.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Interface\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobProvider.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Interface\\IJobProvider.cs",
+              "RelativeToolTip": "Interface\\IJobProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:58:15.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApplicationProvider.cs",
+              "DocumentMoniker": "D:\\Store\\repos\\JobProviderApplication\\Interface\\IApplicationProvider.cs",
+              "RelativeDocumentMoniker": "Interface\\IApplicationProvider.cs",
+              "ToolTip": "D:\\Store\\repos\\JobProviderApplication\\Interface\\IApplicationProvider.cs",
+              "RelativeToolTip": "Interface\\IApplicationProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:57:43.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

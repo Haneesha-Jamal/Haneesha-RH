@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RZExercise
+build_property.RootNamespace = RZExercise
+build_property.ProjectDir = D:\Store\Razor Projects\RZExercise\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Store\Razor Projects\RZExercise
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/JobSeeker/ApplyJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iU2Vla2VyXEFwcGx5Sm9iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/JobSeeker/JobList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iU2Vla2VyXEpvYkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/JobSeeker/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iU2Vla2VyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/JobSeeker/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iU2Vla2VyXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/JobSeeker/ScheduleInterview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iU2Vla2VyXFNjaGVkdWxlSW50ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/JobSeeker/ViewApplyJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9iU2Vla2VyXFZpZXdBcHBseUpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Store/Razor Projects/RZExercise/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9zpt3nb9ax

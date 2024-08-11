@@ -1,0 +1,14 @@
+D:\Store\repos\EncapsulationRevision\bin\Debug\net7.0\EncapsulationRevision.exe
+D:\Store\repos\EncapsulationRevision\bin\Debug\net7.0\EncapsulationRevision.deps.json
+D:\Store\repos\EncapsulationRevision\bin\Debug\net7.0\EncapsulationRevision.runtimeconfig.json
+D:\Store\repos\EncapsulationRevision\bin\Debug\net7.0\EncapsulationRevision.dll
+D:\Store\repos\EncapsulationRevision\bin\Debug\net7.0\EncapsulationRevision.pdb
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\EncapsulationRevision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\EncapsulationRevision.AssemblyInfoInputs.cache
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\EncapsulationRevision.AssemblyInfo.cs
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\EncapsulationRevision.csproj.CoreCompileInputs.cache
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\EncapsulationRevision.dll
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\refint\EncapsulationRevision.dll
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\EncapsulationRevision.pdb
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\EncapsulationRevision.genruntimeconfig.cache
+D:\Store\repos\EncapsulationRevision\obj\Debug\net7.0\ref\EncapsulationRevision.dll

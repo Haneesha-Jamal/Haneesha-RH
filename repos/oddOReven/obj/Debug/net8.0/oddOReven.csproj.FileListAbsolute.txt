@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\oddOReven\bin\Debug\net8.0\oddOReven.exe
+C:\Users\jamal\source\repos\oddOReven\bin\Debug\net8.0\oddOReven.deps.json
+C:\Users\jamal\source\repos\oddOReven\bin\Debug\net8.0\oddOReven.runtimeconfig.json
+C:\Users\jamal\source\repos\oddOReven\bin\Debug\net8.0\oddOReven.dll
+C:\Users\jamal\source\repos\oddOReven\bin\Debug\net8.0\oddOReven.pdb
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\oddOReven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\oddOReven.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\oddOReven.AssemblyInfo.cs
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\oddOReven.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\oddOReven.sourcelink.json
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\oddOReven.dll
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\refint\oddOReven.dll
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\oddOReven.pdb
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\oddOReven.genruntimeconfig.cache
+C:\Users\jamal\source\repos\oddOReven\obj\Debug\net8.0\ref\oddOReven.dll

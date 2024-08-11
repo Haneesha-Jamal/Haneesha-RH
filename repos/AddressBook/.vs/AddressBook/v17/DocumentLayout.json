@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jamal\\source\\repos\\AddressBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|c:\\users\\jamal\\source\\repos\\addressbook\\manager\\addressmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|solutionrelative:manager\\addressmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|c:\\users\\jamal\\source\\repos\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|c:\\users\\jamal\\source\\repos\\addressbook\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|solutionrelative:model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|c:\\users\\jamal\\source\\repos\\addressbook\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|solutionrelative:model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|c:\\users\\jamal\\source\\repos\\addressbook\\model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|solutionrelative:model\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|c:\\users\\jamal\\source\\repos\\addressbook\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF128B3C-1943-4950-ACC9-942815BF576C}|AddressBook.csproj|solutionrelative:model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressManager.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Manager\\AddressManager.cs",
+              "RelativeDocumentMoniker": "Manager\\AddressManager.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Manager\\AddressManager.cs",
+              "RelativeToolTip": "Manager\\AddressManager.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:08:01.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Model\\Country.cs",
+              "RelativeDocumentMoniker": "Model\\Country.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Model\\Country.cs",
+              "RelativeToolTip": "Model\\Country.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:38:20.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Model\\Person.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Model\\Person.cs",
+              "RelativeToolTip": "Model\\Person.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:37:47.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Model\\City.cs",
+              "RelativeDocumentMoniker": "Model\\City.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Model\\City.cs",
+              "RelativeToolTip": "Model\\City.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:38:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Model\\Address.cs",
+              "RelativeDocumentMoniker": "Model\\Address.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Model\\Address.cs",
+              "RelativeToolTip": "Model\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:37:29.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jamal\\source\\repos\\AddressBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:46:45.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

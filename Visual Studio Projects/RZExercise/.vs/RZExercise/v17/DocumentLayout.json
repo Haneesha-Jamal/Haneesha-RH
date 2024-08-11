@@ -1,0 +1,878 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Store\\Razor Projects\\RZExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\service\\applyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:service\\applyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|d:\\store\\razor projects\\rzexercise\\pages\\jobseeker\\applyjob.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\applyjob.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|d:\\store\\razor projects\\rzexercise\\pages\\jobseeker\\scheduleinterview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\scheduleinterview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\scheduleinterview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\scheduleinterview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\applyjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\applyjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\dto\\applydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:dto\\applydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\dto\\interviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:dto\\interviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\models\\apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:models\\apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\joblist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\joblist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\extension\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:extension\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\dal\\seekerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:dal\\seekerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\interface\\iapplyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:interface\\iapplyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\interface\\iapplyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:interface\\iapplyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\interface\\iinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:interface\\iinterviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\interface\\iinterviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:interface\\iinterviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\interface\\ijobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:interface\\ijobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\interface\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:interface\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\service\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:service\\interviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|d:\\store\\razor projects\\rzexercise\\pages\\jobseeker\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\repository\\applyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:repository\\applyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\repository\\interviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:repository\\interviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\exceptions\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:exceptions\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\exceptions\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:exceptions\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:exceptions\\invalidformatexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\exceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:exceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:exceptions\\useralreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\viewinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\viewinterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\pages\\jobseeker\\viewapplyjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:pages\\jobseeker\\viewapplyjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|D:\\Store\\Razor Projects\\RZExercise\\rzexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6E8E6F1-D7F8-4674-A8C5-CADC77FF853B}|RZExercise.csproj|solutionrelative:rzexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplyService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Service\\ApplyService.cs",
+              "RelativeDocumentMoniker": "Service\\ApplyService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Service\\ApplyService.cs",
+              "RelativeToolTip": "Service\\ApplyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:58:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplyJob.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ApplyJob.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\ApplyJob.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ApplyJob.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobSeeker\\ApplyJob.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:45:52.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "Service\\JobService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Service\\JobService.cs",
+              "RelativeToolTip": "Service\\JobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:58:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\Register.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobSeeker\\Register.cshtml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA5wA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:00:32.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScheduleInterview.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ScheduleInterview.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\ScheduleInterview.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ScheduleInterview.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobSeeker\\ScheduleInterview.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:02:26.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleInterview.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ScheduleInterview.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\ScheduleInterview.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ScheduleInterview.cshtml",
+              "RelativeToolTip": "Pages\\JobSeeker\\ScheduleInterview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:01:29.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\Register.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\Register.cshtml",
+              "RelativeToolTip": "Pages\\JobSeeker\\Register.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:00:01.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobList.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\JobList.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\JobList.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\JobList.cshtml",
+              "RelativeToolTip": "Pages\\JobSeeker\\JobList.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:00:31.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobList.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\JobList.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\JobList.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\JobList.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobSeeker\\JobList.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:29:50.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplyJob.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ApplyJob.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\ApplyJob.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ApplyJob.cshtml",
+              "RelativeToolTip": "Pages\\JobSeeker\\ApplyJob.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:00:51.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Apply.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Models\\Apply.cs",
+              "RelativeDocumentMoniker": "Models\\Apply.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Models\\Apply.cs",
+              "RelativeToolTip": "Models\\Apply.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:18:45.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplyDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Dto\\ApplyDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ApplyDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Dto\\ApplyDto.cs",
+              "RelativeToolTip": "Dto\\ApplyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:48:33.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterviewDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Dto\\InterviewDto.cs",
+              "RelativeDocumentMoniker": "Dto\\InterviewDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Dto\\InterviewDto.cs",
+              "RelativeToolTip": "Dto\\InterviewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:48:46.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "Repository\\JobRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:57:37.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\Login.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\JobSeeker\\Login.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:16:57.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:11:33.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:51:45.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:48:10.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Extension\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extension\\ApplicationServiceExtensions.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Extension\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "Extension\\ApplicationServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:51:25.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:52:46.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:48:21.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeekerDBContext.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\DAL\\SeekerDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\SeekerDBContext.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\DAL\\SeekerDBContext.cs",
+              "RelativeToolTip": "DAL\\SeekerDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:20:31.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IApplyRepo.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IApplyRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IApplyRepo.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IApplyRepo.cs",
+              "RelativeToolTip": "Interface\\IApplyRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:53:01.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IApplyService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IApplyService.cs",
+              "RelativeDocumentMoniker": "Interface\\IApplyService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IApplyService.cs",
+              "RelativeToolTip": "Interface\\IApplyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:02:32.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IInterviewRepo.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IInterviewRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IInterviewRepo.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IInterviewRepo.cs",
+              "RelativeToolTip": "Interface\\IInterviewRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:53:28.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IInterviewService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IInterviewService.cs",
+              "RelativeDocumentMoniker": "Interface\\IInterviewService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IInterviewService.cs",
+              "RelativeToolTip": "Interface\\IInterviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:03:52.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IJobRepo.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IJobRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobRepo.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IJobRepo.cs",
+              "RelativeToolTip": "Interface\\IJobRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:52:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IJobService.cs",
+              "RelativeToolTip": "Interface\\IJobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:03:19.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepo.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IUserRepo.cs",
+              "RelativeToolTip": "Interface\\IUserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:52:55.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:58:27.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:02:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InterviewService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Service\\InterviewService.cs",
+              "RelativeDocumentMoniker": "Service\\InterviewService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Service\\InterviewService.cs",
+              "RelativeToolTip": "Service\\InterviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:59:23.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\Login.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\Login.cshtml",
+              "RelativeToolTip": "Pages\\JobSeeker\\Login.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:00:15.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplyRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Repository\\ApplyRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplyRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Repository\\ApplyRepository.cs",
+              "RelativeToolTip": "Repository\\ApplyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:57:50.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:18:52.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T16:08:37.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:11:24.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T16:22:08.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA/wBQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:57:23.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InterviewRepository.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Repository\\InterviewRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\InterviewRepository.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Repository\\InterviewRepository.cs",
+              "RelativeToolTip": "Repository\\InterviewRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:58:12.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "Models\\Interview.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Models\\Interview.cs",
+              "RelativeToolTip": "Models\\Interview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:18:49.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ItemNotFoundException.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\ItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ItemNotFoundException.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\ItemNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\ItemNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:50:13.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\ApiService.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ApiService.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\ApiService.cs",
+              "RelativeToolTip": "Exceptions\\ApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:50:42.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InvalidFormatException.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\InvalidFormatException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidFormatException.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\InvalidFormatException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidFormatException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:26:14.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ServiceException.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\ServiceException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ServiceException.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\ServiceException.cs",
+              "RelativeToolTip": "Exceptions\\ServiceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:50:27.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserAlreadyExistException.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\UserAlreadyExistException.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Exceptions\\UserAlreadyExistException.cs",
+              "RelativeToolTip": "Exceptions\\UserAlreadyExistException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:49:09.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T09:06:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ViewInterview.cs",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ViewInterview.cs",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\ViewInterview.cs",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ViewInterview.cs",
+              "RelativeToolTip": "Pages\\JobSeeker\\ViewInterview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:01:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ViewApplyJob.cshtml",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ViewApplyJob.cshtml",
+              "RelativeDocumentMoniker": "Pages\\JobSeeker\\ViewApplyJob.cshtml",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\Pages\\JobSeeker\\ViewApplyJob.cshtml",
+              "RelativeToolTip": "Pages\\JobSeeker\\ViewApplyJob.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T08:01:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RZExercise.csproj",
+              "DocumentMoniker": "D:\\Store\\Razor Projects\\RZExercise\\RZExercise.csproj",
+              "RelativeDocumentMoniker": "RZExercise.csproj",
+              "ToolTip": "D:\\Store\\Razor Projects\\RZExercise\\RZExercise.csproj",
+              "RelativeToolTip": "RZExercise.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T07:45:14.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

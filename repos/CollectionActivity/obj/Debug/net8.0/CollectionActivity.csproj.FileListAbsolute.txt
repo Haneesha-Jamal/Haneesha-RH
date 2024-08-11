@@ -1,0 +1,15 @@
+C:\Users\jamal\source\repos\CollectionActivity\bin\Debug\net8.0\CollectionActivity.exe
+C:\Users\jamal\source\repos\CollectionActivity\bin\Debug\net8.0\CollectionActivity.deps.json
+C:\Users\jamal\source\repos\CollectionActivity\bin\Debug\net8.0\CollectionActivity.runtimeconfig.json
+C:\Users\jamal\source\repos\CollectionActivity\bin\Debug\net8.0\CollectionActivity.dll
+C:\Users\jamal\source\repos\CollectionActivity\bin\Debug\net8.0\CollectionActivity.pdb
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\CollectionActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\CollectionActivity.AssemblyInfoInputs.cache
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\CollectionActivity.AssemblyInfo.cs
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\CollectionActivity.csproj.CoreCompileInputs.cache
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\CollectionActivity.sourcelink.json
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\CollectionActivity.dll
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\refint\CollectionActivity.dll
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\CollectionActivity.pdb
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\CollectionActivity.genruntimeconfig.cache
+C:\Users\jamal\source\repos\CollectionActivity\obj\Debug\net8.0\ref\CollectionActivity.dll
